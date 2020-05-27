@@ -4,7 +4,7 @@ View the demo <a href="https://flash-card-n.herokuapp.com/">here</a>.
 A JSON file stores the data about the cards. Pug is used to create templates that utilize the JSON to generate markup that is displayed in the browser. Express is used to import the required dependencies, link JSON with the Pug templates, set up routes to handle requests, set up middleware to utilize static files, handle errors, and set up a server to serve the project. This project was created for the purpose of the Treehouse Full Stack JavaScript.
  
  # html&css
- Treehouse provided the tempates
+ Treehouse provided all the templates html and css.
 
  # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development.

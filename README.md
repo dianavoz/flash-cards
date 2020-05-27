@@ -20,7 +20,7 @@ Step 2: Open the folder in a text editor.
 Step 3: In the terminal, install dependencies
 
 # npm install
-Step 4: Start the app
+Step 4: Start the app <br>
 run it with node app.js or nodemon
 
 # npm start

@@ -21,7 +21,7 @@ Step 3: In the terminal, install dependencies
 
 # npm install
 Step 4: Start the app <br>
-run it with node app.js or nodemon
+run it with node app.js or nodemon in the terminal
 
 # npm start
 Step 5: View the website on http://localhost:3000/

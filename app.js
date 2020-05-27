@@ -1,3 +1,4 @@
+const PORT = process.env.PORT || 3000;
 const cookieParser = require('cookie-parser');
 const bodyParser = require('body-parser');
 const express = require('express');
